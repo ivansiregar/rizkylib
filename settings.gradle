@@ -1,0 +1,3 @@
+include ':rizkylib'
+include ':app'
+rootProject.name = "p141d_Library"
